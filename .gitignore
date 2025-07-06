@@ -1,0 +1,10 @@
+# Ignore Python cache and virtualenv files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+venv/
+summary_output.txt
+.DS_Store
