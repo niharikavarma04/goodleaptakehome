@@ -21,7 +21,7 @@ This script parses json response from the GitHub API for the `nodejs/node` repo 
    4. View saved output
        cat summary_output.txt
 
-🐳 Docker commands to run the containerized script
+## 🐳 Docker commands to run the containerized script
    1. On the root directory of the application run the command below
       docker build -t github-summary .
    
